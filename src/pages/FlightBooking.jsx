@@ -17,7 +17,7 @@ const FlightBooking = () => {
                 <input type="text" id="email" /> <br />
                 
                 <label htmlFor="mobile">Mobile Number *</label>
-                <input type="number" id="mobile" /> <br />
+                <input type="text" id="mobile" /> <br />
 
                 <button><Link to='/'>CONFIRM BOOKING</Link></button>
             </form>
