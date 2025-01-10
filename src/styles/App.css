@@ -63,3 +63,7 @@ nav {
     display: grid;
     place-content: center;
 }
+
+input[type='text'] {
+    font-size: larger;
+}
